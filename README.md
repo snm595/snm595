@@ -44,7 +44,6 @@ Hi, I'm **Nida**, a Computer Science student who enjoys learning and building th
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=snm595&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=snm595&theme=tokyonight&hide_border=false)
 
